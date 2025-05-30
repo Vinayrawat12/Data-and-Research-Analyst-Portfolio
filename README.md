@@ -1,6 +1,6 @@
-# 📊 Power BI Portfolio – Vinay Rawat
+# 📊 Power BI Dashboards Portfolio – Vinay Rawat
 
-Welcome to my Power BI portfolio! I'm passionate about turning data into meaningful insights and business-ready dashboards. Below you'll find some of my featured Power BI projects based on real-world scenarios and datasets.
+Welcome to my Power BI dashboard portfolio! I'm Vinay Rawat, a data enthusiast passionate about transforming raw data into meaningful insights. This repository showcases my work with real-world datasets, where I applied business intelligence techniques to build interactive, insightful, and impactful dashboards.
 
 ---
 
@@ -9,9 +9,11 @@ Welcome to my Power BI portfolio! I'm passionate about turning data into meaning
 ### 1. **Revenue Insights in Hospitality Domain**
 ![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
 
-📌 **Description**: An interactive dashboard that tracks monthly, quarterly, and yearly sales across regions and categories.
+📌 **Description**:  
+This dashboard provides a comprehensive overview of sales performance across different regions, product categories, and time periods. It allows decision-makers to track key metrics such as revenue, profit, and quantity sold, helping them identify top-performing areas and optimize strategy accordingly.
 
-🔧 **Skills Used**: DAX | Time Intelligence | Drill-Through | Bookmarks
+🔧 **Skills Used**:  
+Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
 
