@@ -13,7 +13,7 @@ Welcome to my Power BI portfolio! I'm passionate about turning data into meaning
 
 🔧 **Skills Used**: DAX | Time Intelligence | Drill-Through | Bookmarks
 
-🔗 **Download Report**: [Power-BI-Dashboards/Hospitality_Domain_Dashboard.pbix](Power-BI-Dashboards/Hospitality_Domain_Dashboard.pbix)
+🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
 
 ---
 
