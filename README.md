@@ -7,12 +7,15 @@ Welcome to my Power BI dashboard portfolio! I'm Vinay Rawat, a data enthusiast p
 ## 🔷 Projects
 
 ### 1. **Revenue Insights in Hospitality Domain**
+
 ![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
 
 📌 **Description**:  
+
 This dashboard provides a comprehensive overview of sales performance across different regions, product categories, and time periods. It allows decision-makers to track key metrics such as revenue, profit, and quantity sold, helping them identify top-performing areas and optimize strategy accordingly.
 
 🔧 **Skills Used**:  
+
 Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
