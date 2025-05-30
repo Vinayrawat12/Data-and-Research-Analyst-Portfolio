@@ -7,7 +7,7 @@ Welcome to my Power BI portfolio! I'm passionate about turning data into meaning
 ## 🔷 Projects
 
 ### 1. **Revenue Insights in Hospitality Domain**
-![Power-BI-Dashboards/Hospitality_Domain_Dashboard.png](Power-BI-Dashboards/Hospitality_Domain_Dashboard.png)
+![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
 
 📌 **Description**: An interactive dashboard that tracks monthly, quarterly, and yearly sales across regions and categories.
 
