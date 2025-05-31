@@ -27,12 +27,12 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 ### 1. 🏏 Sports Manufacturing Policy Report – FICCI & IMT Ghaziabad  
 📌 **Description**:  
 Co-authored a whitepaper addressing India's sports manufacturing sector challenges. Provided analysis on export hurdles, policy gaps, and recommended regulatory improvements.  
-🔗 **Link**: [View Report on LinkedIn](https://www.linkedin.com/posts/ficci_ficci-imtg-whitepaper-ugcPost-7331213629024862208-QD4u)  
+🔗 **Link**: [View Report]([https://www.linkedin.com/posts/ficci_ficci-imtg-whitepaper-ugcPost-7331213629024862208-QD4u](https://ficci.in/study_details/24101))  
 🔧 **Skills Used**:  
 
 Policy Research | Industry Analysis | Secondary Data | Report Writing
 
---
+---
 
 ### 2. 🏔️ Macroeconomic Analysis – Ladakh  
 📌 **Description**:  
@@ -41,19 +41,9 @@ Created a macroeconomic profile of Ladakh, analyzing tourism trends, economic de
 
 Data Collection | Regional Economics | Insight Synthesis | Visualization (Excel)
 
---
+---
 
-### 3. ⚽ Football Website Study  
-📌 **Description**:  
-Analyzed digital engagement strategies of global football organizations. Suggested UX, content, and outreach improvements based on fan interaction and content trends.  
-🔗 **Link**: [Read More](https://www.imt.edu/src-reports-and-publications/)  
-🔧 **Skills Used**:  
-
-Digital Research | Web Analytics | Strategy & Recommendations
-
---
-
-### 4. 🎯 Beyond-the-Pitch – Vision for Indian Football  
+### 3. 🎯 Beyond-the-Pitch – Vision for Indian Football  
 📌 **Description**:  
 Contributed to a strategic vision document to uplift Indian football through grassroots development, training ecosystems, and long-term planning.  
 🔗 **Link**: [Read More](https://www.imt.edu/src-reports-and-publications/beyond-the-pitch/)  
@@ -61,9 +51,9 @@ Contributed to a strategic vision document to uplift Indian football through gra
 
 Strategic Planning | Policy Research | Sports Development
 
---
+---
 
-### 5. 📈 Raising The Score – Performance Analytics in Sports  
+### 4. 📈 Raising The Score – Performance Analytics in Sports  
 📌 **Description**:  
 Worked on identifying key performance indicators in sports and how analytics can be used to enhance athlete/team results.  
 🔗 **Link**: [Read More](https://www.imt.edu/src-reports-and-publications/)  
