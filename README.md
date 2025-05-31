@@ -30,7 +30,9 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 📌 **Description**:  
 Co-authored a whitepaper addressing India's sports manufacturing sector challenges. Provided analysis on export hurdles, policy gaps, and recommended regulatory improvements.  
+
 🔗 **Link**: [View Report](https://ficci.in/study_details/24101)
+
 🔧 **Skills Used**:  
 
 Policy Research | Industry Analysis | Secondary Data | Report Writing
