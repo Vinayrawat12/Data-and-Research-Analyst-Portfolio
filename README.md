@@ -54,8 +54,6 @@ Data Collection | Regional Economics | Insight Synthesis | Visualization (Excel)
 
 ### 3. 📈 Raising The Score – Performance Analytics in Sports  
 
-![Raising-the-Score (1)_page-0001.jpg](Raising-the-Score (1)_page-0001.jpg)
-
 📌 **Description**:  
 Worked on identifying key performance indicators in sports and how analytics can be used to enhance athlete/team results.  
 🔗 **Link**: [Read More](http://web.imt.edu/downloadfiles/src/Raising-the-Score.pdf)  
