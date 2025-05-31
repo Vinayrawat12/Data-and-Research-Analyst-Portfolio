@@ -60,8 +60,10 @@ Data Collection | Regional Economics | Insight Synthesis | Visualization (Excel)
 
 📌 **Description**:  
 
-Worked on identifying key performance indicators in sports and how analytics can be used to enhance athlete/team results.  
+Worked on identifying key performance indicators in sports and how analytics can be used to enhance athlete/team results.
+
 🔗 **Link**: [Read More](http://web.imt.edu/downloadfiles/src/Raising-the-Score.pdf)  
+
 🔧 **Skills Used**:  
 
 Performance Metrics | Data Analytics | Research Writing
