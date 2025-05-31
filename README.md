@@ -37,26 +37,19 @@ Policy Research | Industry Analysis | Secondary Data | Report Writing
 ### 2. 🏔️ Macroeconomic Analysis – Ladakh  
 📌 **Description**:  
 Created a macroeconomic profile of Ladakh, analyzing tourism trends, economic development indicators, and livelihood patterns for regional policy recommendations.  
+
+🔗 **Link**: [Read More](http://web.imt.edu/downloadfiles/src/Ladakh-Football-Awakening/)
+
 🔧 **Skills Used**:  
 
 Data Collection | Regional Economics | Insight Synthesis | Visualization (Excel)
 
 ---
 
-### 3. 🎯 Beyond-the-Pitch – Vision for Indian Football  
-📌 **Description**:  
-Contributed to a strategic vision document to uplift Indian football through grassroots development, training ecosystems, and long-term planning.  
-🔗 **Link**: [Read More](https://www.imt.edu/src-reports-and-publications/beyond-the-pitch/)  
-🔧 **Skills Used**:  
-
-Strategic Planning | Policy Research | Sports Development
-
----
-
-### 4. 📈 Raising The Score – Performance Analytics in Sports  
+### 3. 📈 Raising The Score – Performance Analytics in Sports  
 📌 **Description**:  
 Worked on identifying key performance indicators in sports and how analytics can be used to enhance athlete/team results.  
-🔗 **Link**: [Read More](https://www.imt.edu/src-reports-and-publications/)  
+🔗 **Link**: [Read More](http://web.imt.edu/downloadfiles/src/Raising-the-Score.pdf)  
 🔧 **Skills Used**:  
 
 Performance Metrics | Data Analytics | Research Writing
