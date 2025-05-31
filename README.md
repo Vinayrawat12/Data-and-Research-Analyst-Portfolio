@@ -39,7 +39,7 @@ Policy Research | Industry Analysis | Secondary Data | Report Writing
 
 ### 2. 🏔️ Ladakh: Football Awakening – Regional Socioeconomic Analysis  
 
-![Ladakh_Report_coverpage.png](Ladakh_Report_coverpage.png)
+<img src="Ladakh_Report_coverpage.png" alt="Regional Socioeconomic Analysis" width="350"/>
 
 📌 **Description**:  
 This report explores how football is emerging as a vehicle for youth empowerment and community development in Ladakh. It examines the region’s socio-economic landscape, football ecosystem, and the transformative role of sports in isolated geographies.
