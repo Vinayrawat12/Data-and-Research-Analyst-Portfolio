@@ -26,7 +26,7 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 ### 1. 🏏 Sports Manufacturing Policy Report – FICCI & IMT Ghaziabad  
 
-![FICCI_White_Paper_Coverpage.jpg](FICCI_White_Paper_Coverpage.jpg)
+<img src="FICCI_White_Paper_Coverpage.jpg" alt="FICCI Report" width="350"/>
 
 📌 **Description**:  
 Co-authored a whitepaper addressing India's sports manufacturing sector challenges. Provided analysis on export hurdles, policy gaps, and recommended regulatory improvements.  
