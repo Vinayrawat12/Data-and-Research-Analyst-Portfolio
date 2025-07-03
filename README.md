@@ -22,6 +22,60 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
 
 ---
+
+### 2. **Beyond the Game: India’s Sports Literacy Dashboard**
+
+![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
+
+📌 **Description**:  
+
+A Comprehensive Power BI Dashboard Measuring Sports Awareness, Value, and Participation Across Demographics
+
+This interactive Power BI dashboard offers a data-driven exploration of sports literacy by analyzing how individuals value sports, understand sporting knowledge, and engage in real-life sports activities. Designed to provide insights for policymakers, educators, sports federations, and researchers, the dashboard presents both macro-level trends and persona-based micro-segmentation.
+
+🔍 **Key Features**:
+
+📊 Sports Literacy Snapshot
+Overview of average scores across three key dimensions—value of sports, knowledge accuracy, and real-life participation—segmented by gender, age, and education level.
+
+📘 Sports Knowledge & Awareness
+Treemap visualizing sport-wise knowledge accuracy (% correct answers), with filters for demographic deep-dives.
+
+⚽ Real-Life Participation & Identity
+Visuals on current sports engagement, primary sports played, and patterns of participation frequency (daily, weekly, rarely, etc.).
+
+💡 Value of Sports in Life
+Analysis of how different demographics (age, gender, education) perceive the value of playing sports, backed by average scores and comparison charts.
+
+🧠 Persona-Based Insights
+Participants are grouped into meaningful personas (e.g., Enthusiast, Spectator, Knowledgeable Doer) based on their scores across all sections—enabling nuanced program design and targeted interventions.
+
+🛠️ **Tech Stack**:
+
+Tool Used: Microsoft Power BI
+
+Data Sources: Sports Literacy Survey (structured & cleaned in Excel)
+
+Custom Features: DAX Measures, Treemaps, Pie Charts, Bar Graphs, Filters by Age, Gender, Education Level, and Persona Type
+
+📈 **Use Cases**:
+
+Designing inclusive physical education programs
+
+Identifying sports knowledge gaps among different social groups
+
+Tailoring outreach strategies for grassroots sports development
+
+Benchmarking sports participation in urban/rural contexts
+
+🔧 **Skills Used**:  
+
+Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
+
+🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
+
+---
+
 ## 📄 Research & Reports
 
 ### 1. 🏏 Sports Manufacturing Policy Report – FICCI & IMT Ghaziabad  
