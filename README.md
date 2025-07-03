@@ -48,11 +48,11 @@ To assess and visualize sports literacy levels across different demographics usi
 
 🛠️ **Tech Stack**:
 
-Tool Used: Microsoft Power BI
+      Tools: Power BI, Excel, DAX, Power Query
 
-Data Sources: Sports Literacy Survey (structured & cleaned in Excel)
+      Techniques: Data Cleaning, Demographic Filtering, KPI Cards, Treemaps, Slicers, Persona Segmentation
 
-Custom Features: DAX Measures, Treemaps, Pie Charts, Bar Graphs, Filters by Age, Gender, Education Level, and Persona Type
+      Concepts: Sports Literacy Analysis, Score Normalization, Dashboard Storytelling, Interactive Visuals
 
 📈 **Use Cases**:
 
@@ -64,9 +64,6 @@ Custom Features: DAX Measures, Treemaps, Pie Charts, Bar Graphs, Filters by Age,
 
     Benchmarking sports participation in urban/rural contexts
 
-🔧 **Skills Used**:  
-
-Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 🔗 **Download Report**: [Sports Literacy Dashboard](https://drive.google.com/drive/folders/1UuuM7reDAMBfMw4TgD4U_IYXVKcYRlXq?usp=sharing)
 
