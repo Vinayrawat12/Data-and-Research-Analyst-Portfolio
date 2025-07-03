@@ -25,7 +25,7 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 ### 2. **Beyond the Game: India’s Sports Literacy Dashboard**
 
-![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
+![Home.jpg](Home.jpg)![Snapshot.jpg](Snapshot.jpg)![Value.jpg](Value.jpg)![Knowledge.jpg](Knowledge.jpg)![Participation.jpg](Participation.jpg)![Persona.jpg](Persona.jpg)
 
 📌 **Description**:  
 
