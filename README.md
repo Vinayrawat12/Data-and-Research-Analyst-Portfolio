@@ -25,7 +25,7 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 
 ### 2. **Beyond the Game: India’s Sports Literacy Dashboard**
 
-![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
+![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
 
 📌 **Description**:  
 
@@ -33,22 +33,34 @@ A Comprehensive Power BI Dashboard Measuring Sports Awareness, Value, and Partic
 
 This interactive Power BI dashboard offers a data-driven exploration of sports literacy by analyzing how individuals value sports, understand sporting knowledge, and engage in real-life sports activities. Designed to provide insights for policymakers, educators, sports federations, and researchers, the dashboard presents both macro-level trends and persona-based micro-segmentation.
 
+📘 **Objective**:
+
+To assess and visualize sports literacy levels across different demographics using survey data. The dashboard provides insights into: - How individuals value sports - Their knowledge and awareness of sports - Their real-life participation and identity as sportspersons
+
+🧩 **Data Summary**: 
+
+   Total Respondents: 450+
+   Sections: - Section 1: Importance of Sports in Life (Max 46) 
+             - Section 2: Sports Knowledge & Awareness (Max 22) 
+             - Section 3: Real-Life Participation & Identity (Max 32)
+   Total Score: 100
+
 🔍 **Key Features**:
 
 📊 Sports Literacy Snapshot
-Overview of average scores across three key dimensions—value of sports, knowledge accuracy, and real-life participation—segmented by gender, age, and education level.
+    Overview of average scores across three key dimensions—value of sports, knowledge accuracy, and real-life participation—segmented by gender, age, and education level.
 
 📘 Sports Knowledge & Awareness
-Treemap visualizing sport-wise knowledge accuracy (% correct answers), with filters for demographic deep-dives.
+    Treemap visualizing sport-wise knowledge accuracy (% correct answers), with filters for demographic deep-dives.
 
 ⚽ Real-Life Participation & Identity
-Visuals on current sports engagement, primary sports played, and patterns of participation frequency (daily, weekly, rarely, etc.).
+    Visuals on current sports engagement, primary sports played, and patterns of participation frequency (daily, weekly, rarely, etc.).
 
 💡 Value of Sports in Life
-Analysis of how different demographics (age, gender, education) perceive the value of playing sports, backed by average scores and comparison charts.
+    Analysis of how different demographics (age, gender, education) perceive the value of playing sports, backed by average scores and comparison charts.
 
 🧠 Persona-Based Insights
-Participants are grouped into meaningful personas (e.g., Enthusiast, Spectator, Knowledgeable Doer) based on their scores across all sections—enabling nuanced program design and targeted interventions.
+    Participants are grouped into meaningful personas (e.g., Enthusiast, Spectator, Knowledgeable Doer) based on their scores across all sections—enabling nuanced program design and targeted interventions.
 
 🛠️ **Tech Stack**:
 
@@ -60,13 +72,13 @@ Custom Features: DAX Measures, Treemaps, Pie Charts, Bar Graphs, Filters by Age,
 
 📈 **Use Cases**:
 
-Designing inclusive physical education programs
+    Designing inclusive physical education programs
 
-Identifying sports knowledge gaps among different social groups
+    Identifying sports knowledge gaps among different social groups
 
-Tailoring outreach strategies for grassroots sports development
+    Tailoring outreach strategies for grassroots sports development
 
-Benchmarking sports participation in urban/rural contexts
+    Benchmarking sports participation in urban/rural contexts
 
 🔧 **Skills Used**:  
 
