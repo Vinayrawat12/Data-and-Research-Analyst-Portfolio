@@ -7,23 +7,7 @@ I work at the intersection of business intelligence, public policy, and sports r
 
 ## 📁 Power BI Dashboards
 
-### 1. **Revenue Insights in Hospitality Domain**
-
-![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
-
-📌 **Description**:  
-
-This dashboard provides a comprehensive overview of sales performance across different regions, product categories, and time periods. It allows decision-makers to track key metrics such as revenue, profit, and quantity sold, helping them identify top-performing areas and optimize strategy accordingly.
-
-🔧 **Skills Used**:  
-
-Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
-
-🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
-
----
-
-### 2. **Beyond the Game: India’s Sports Literacy Dashboard**
+### 1. **Beyond the Game: India’s Sports Literacy Dashboard**
 
 ![Home.jpg](Home.jpg)![Snapshot.jpg](Snapshot.jpg)![Value.jpg](Value.jpg)![Knowledge.jpg](Knowledge.jpg)![Participation.jpg](Participation.jpg)![Persona.jpg](Persona.jpg)
 
@@ -87,6 +71,23 @@ Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
 🔗 **Download Report**: [Sports Literacy Dashboard](https://drive.google.com/drive/folders/1UuuM7reDAMBfMw4TgD4U_IYXVKcYRlXq?usp=sharing)
 
 ---
+
+### 2. **Revenue Insights in Hospitality Domain**
+
+![Hospitality_Domain_Dashboard.png](Hospitality_Domain_Dashboard.png)
+
+📌 **Description**:  
+
+This dashboard provides a comprehensive overview of sales performance across different regions, product categories, and time periods. It allows decision-makers to track key metrics such as revenue, profit, and quantity sold, helping them identify top-performing areas and optimize strategy accordingly.
+
+🔧 **Skills Used**:  
+
+Power BI | DAX | Time Intelligence | Slicers & Filters | Data Modeling
+
+🔗 **Download Report**: [Hospitality_Domain_Dashboard.pbix](Hospitality_Domain_Dashboard.pbix)
+
+---
+
 
 ## 📄 Research & Reports
 
